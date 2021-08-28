@@ -1,0 +1,52 @@
+Lab sheet 2
+
+1. WAP to print whether a given number is even or odd?
+2. Write a program to find the largest and smallest among three entered numbers and
+     also display whether the identified largest/smallest number is even or odd.
+3. Write a program to compute grade of students using if else. The grades are
+     assigned as followed:
+		Marks		               Grade
+		Marks<50			 F
+		50<=marks<60		 C
+		60<=marks<70		 B
+		70<=marks<80		 B+
+		80<=marks<90 		 A
+		90<=marks<=100		 A+
+
+4. Write a program to find whether a character is consonant or vowel
+5. WAP to convert upper case character to lowercase character and vice versa.
+6. Write a C program to input electricity unit charge and calculate the total electricity
+     bill according to the given condition:
+	For first 50 units Rs. 0.50/unit
+	For next 100 units Rs. 0.75/unit
+	For next 100 units Rs. 1.20/unit
+	For unit above 250 Rs. 1.50/unit
+	An additional surcharge of 20% is added to the bill.
+7. WAP to print all the natural numbers from (1 to n) using while loop.
+8. WAP to print all the natural numbers in reverse from (n to 1).
+9. WAP to display all the alphabets from a-z using ascii value.
+10.WAP to print all the even numbers from 1 to 100 using while loop.
+11.WAP to print all the odd numbers from 1 to 100 using while loop.
+12.WAP to find sum of all the natural numbers between 1 to n.
+13.WAP to find sum of all the even numbers from 1 to n.
+14.WAP to find sum of all the odd numbers from 1 to n.
+15.WAP to generate multiplication table of the number input by user using for loop.
+16.WAP to count number of digits in an integer.
+17.WAP to find first and last digit of a number.
+18.WAP to find sum of first and last digit of a number.
+19.WAP to find sum of digits of a number.
+20.WAP to find product of digits of a number.
+21.WAP to enter a number and print its reverse.
+22.WAP to check whether a number is palindrome or not.
+23.WAP to find all factors of a number.
+24.WAP to calculate factorial of a number
+25.WAP to find HCF of two numbers.
+26.WAP to find LCM of two numbers.
+27.WAP to check whether a number is prime or not.
+28.WAP to print all the prime number between 1 to n.
+29.WAP to print the sum of all the prime numbers between 1 to n.
+30.WAP to check whether a given number is Armstrong number or not.
+31.WAP to print all the Armstrong number between 1 to n.
+32.Write a C program to check whether a number is Perfect number or not.
+33.Write a C program to print all Perfect numbers between 1 to n.
+34.WAP to print Fibonacci series up to n terms.
