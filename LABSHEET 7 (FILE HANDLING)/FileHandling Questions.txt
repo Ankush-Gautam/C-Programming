@@ -1,0 +1,14 @@
+Lab Sheet: File Handling
+
+1. Write a C program to create a file and write contents, save and close the file.
+2. Write a C program to read file contents and display on console.
+3. Write a C program to read numbers from a file and write even, odd and prime numbers to separate file.
+4. Write a C program to append content to a file.
+5. Write a C program to compare two files.
+6. Write a C program to copy contents from one file to another file.
+7. Write a C program to merge two files to third file.
+8. Write a C program to count characters, words and lines in a text file.
+9. Write a C program to remove a word from text file.
+10. Write a C program to find and replace a word in a text file.
+11. Write a C program to count occurrences of a word in a text file.
+12. Write a C program to convert uppercase to lowercase character and vice versa in a text file.
