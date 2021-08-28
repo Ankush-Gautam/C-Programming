@@ -1,0 +1,14 @@
+1. Write a C program to find length of a string.
+2. Write a C program to copy one string to another string.
+3. Write a C program to concatenate two strings.
+4. Write a C program to compare two strings.
+5. Write a C program to convert lowercase string to uppercase.
+6. Write a C program to convert uppercase string to lowercase.
+7. Write a C program to toggle case of each character of a string.
+8. Write a C program to find total number of alphabets, digits or special character in a string.
+9. Write a C program to count total number of vowels and consonants in a string.
+10. Write a C program to count total number of words in a string.
+11. Write a C program to find reverse of a string.
+12. Write a C program to check whether a string is palindrome or not.
+13. Write a C program to reverse order of words in a given string.
+14. Write a C program to trim leading white space characters from given string.
