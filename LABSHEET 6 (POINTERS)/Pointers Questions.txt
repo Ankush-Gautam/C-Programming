@@ -1,0 +1,13 @@
+Pointers
+1. Write a C program to create, initialize and use pointers.
+2. Write a C program to add two numbers using pointers.
+3. Write a C program to swap two numbers using pointers.
+4. Write a C program to input and print array elements using pointer.
+5. Write a C program to copy one array to another using pointers.
+6. Write a C program to swap two arrays using pointers.
+7. Write a C program to reverse an array using pointers.
+8. Write a C program to search an element in array using pointers.
+9. Write a C program to add two matrix using pointers.
+10. Write a C program to multiply two matrix using pointers.
+11. Write a C program to sort array using pointers.
+12. Write a C program to transpose a matrix using pointer.
