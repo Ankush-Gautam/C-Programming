@@ -1,0 +1,5 @@
+Hello World ! This is a simple text file for no. 8 programs which counts the number of characters, words and 
+
+line 
+of 
+this text file.
