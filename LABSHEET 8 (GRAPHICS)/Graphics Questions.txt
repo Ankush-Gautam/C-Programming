@@ -1,0 +1,7 @@
+Lab sheet: Graphics in C
+
+1. Write a program to draw line with blue color and dotted type.
+2. Write a program to draw a circle, square and rectangle each with different colors using graphics.
+3. Write a program to draw triangle, ellipse using graphics function.
+4. Write a program to draw a rectangle filled with red color and place a text “GM College” in the
+      center of the rectangle with white color.
