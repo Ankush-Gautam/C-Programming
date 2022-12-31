@@ -1,2 +1,3 @@
-# C-Programming
-Bunch of C programs for assignments or whatever
+## C-Programming
+
+- C Programs exercises done as a college assignment.
